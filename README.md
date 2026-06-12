@@ -4,7 +4,7 @@ language:
   - fa
 pretty_name: Nim Faseleh Corpus (Persian ZWNJ Corpus)
 size_categories:
-  - 50K<n<100K
+  - 10K<n<20K
 task_categories:
   - text-classification
   - token-classification
@@ -55,7 +55,7 @@ The data is provided in a CSV file named `Nim_Faseleh_Corpus.csv`.
 
 ## 📊 Statistics
 
-- Total samples: 50,000+
+- Total samples: 14,000+
 - Full coverage of Persian alphabet (32 letters)
 - Includes nouns, adjectives, verbs, adverbs, and idiomatic compounds
 - Balanced structural diversity across compound formations
