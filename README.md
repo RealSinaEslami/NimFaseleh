@@ -21,7 +21,7 @@ task_ids:
 
 The Nim Faseleh Corpus is designed to comprehensively cover Persian **Zero-Width Non-Joiner (ZWNJ)** usage patterns and compound word formations.
 
-ZWNJ is one of the most critical yet under-addressed challenges in Persian Natural Language Processing. This dataset provides more than 50,000 standardized samples to support research and development in this area.
+ZWNJ is one of the most critical yet under-addressed challenges in Persian Natural Language Processing. This dataset provides more than 14,000 standardized samples to support research and development in this area.
 
 ---
 
